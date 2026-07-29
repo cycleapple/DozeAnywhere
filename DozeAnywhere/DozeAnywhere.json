@@ -1,9 +1,9 @@
 {
 	"Author": "Warpholomey",
 	"Name": "DozeAnywhere",
-	"Punchline": "Sit or doze anywhere.",
-	"RepoUrl": "https://github.com/Warpholomey/DozeAnywhere/",
-	"Description": "Allows you to sit or doze anywhere. This can be achieved without plugins by using a HEX editor, but some people may find it more convenient.",
+	"Punchline": "在任何地方坐下或打瞌睡。",
+	"RepoUrl": "https://github.com/cycleapple/DozeAnywhere/",
+	"Description": "讓你能在任何地方使用坐下或打瞌睡的情感動作。",
 	"InternalName": "DozeAnywhere",
 	"ApplicableVersion": "any",
 	"Tags": []
